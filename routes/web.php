@@ -24,6 +24,6 @@ Route::post('event-contact', [ContactController::class, 'sendEventContactEmail']
 
 Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
 
-Route::get('rengin-direct-booking', function(){
-    return redirect('https://hotelja.pcbtroniks.com/direct-booking');
+Route::get('rengin-direct-booking', function () {
+    return redirect()->route('contact');
 })->name('rengin.direct-booking');
