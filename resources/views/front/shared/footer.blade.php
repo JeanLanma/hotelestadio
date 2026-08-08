@@ -34,12 +34,12 @@
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
                     <span>reservaciones@hotelestadio.mx</span>
                 </a>
-                <a class="flex gap-2" href="#">
+                <div class="flex gap-2">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">
                     <span>
                         C. Estadio 72, Las Conchas, 44460 Guadalajara, Jal. México.
                     </span>
-                </a>
+                </div>
             </div>
         </div>
 

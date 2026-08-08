@@ -9,17 +9,17 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                        C. Estadio 72, Las Conchas, 44460 Guadalajara, Jal. México.
                     </p>
                 </li>
                 <li>
                     <p>
-                        +52 (33) 3658 1051
+                        +52 (33) 3619 1958
                     </p>
                 </li>
                 <li>
                     <p>
-                        recepcion@hoteljacentro.com
+                        reservaciones@hotelestadio.mx
                     </p>
                 </li>
                 <li>
