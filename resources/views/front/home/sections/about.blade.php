@@ -19,8 +19,7 @@
                 tienen TV por cable y baño privado con ducha y artículos de aseo gratuitos. Las habitaciones deluxe
                 disponen además de aire acondicionado.
                 <br>
-                El restaurante ofrece un desayuno buffet. Además, hay servicio de habitaciones y maquinas expendedoras
-                de bebidas y aperitivos.
+                El restaurante ofrece un desayuno delicioso. Además, hay servicio de habitaciones.
                 <br>
                 El hotel dispone de servicio de lavandería y de limpieza en seco. También cuenta con un mostrador de
                 información turística y un servicio de enlace con el aeropuerto, disponible por un suplemento.
