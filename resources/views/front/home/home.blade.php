@@ -117,6 +117,8 @@
     <div>
         @include('front.home.sections.hero')
 
+        @include('front.home.sections.welcome')
+
         @include('front.home.sections.about')
 
         @include('front.home.sections.rooms')
